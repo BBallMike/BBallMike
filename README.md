@@ -9,6 +9,9 @@
 </head>
 <body>
     <nav>
-        <img src="ball.png" alt="logo">
+        <img src="ball.png" alt="logo"> 
         <h1>Marquises Unblocked Games</h1>
     </nav>
+    <div class="featured">
+        <h1>Popular:</h1>
+        <div class="column">
