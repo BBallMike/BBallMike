@@ -9,6 +9,6 @@
 </head>
 <body>
     <nav>
-        <img src="images/MUG.png" alt="logo">
+        <img src="ball.png" alt="logo">
         <h1>Marquises Unblocked Games</h1>
     </nav>
